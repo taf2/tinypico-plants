@@ -1,0 +1,2 @@
+control an nchannel and pchannel mosfet to trickel charge a super capacitor
+use a voltage divider to monitor the capacitor charge
